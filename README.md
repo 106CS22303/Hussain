@@ -6,7 +6,7 @@
       Drr GOVT Poleytecnic
     </h1>
     <p>
-      Hussain Studying in Drr
+      Hussain Studying in Drr Poleytecnic (DVG)
     </p>
   </body>
 </html>
